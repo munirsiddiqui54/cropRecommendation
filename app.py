@@ -1,7 +1,6 @@
 from flask import Flask ,jsonify,request
 import pickle
 import pandas as pd
-import sklearn
 import joblib
 
 app =Flask(__name__)
