@@ -1,6 +1,4 @@
 Flask
-pickle
 joblib
 pandas
-sklearn
 gunicorn
